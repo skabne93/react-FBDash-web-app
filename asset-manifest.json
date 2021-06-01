@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-FBDash-web-app/static/css/main.cd2cb3d4.chunk.css",
-    "main.js": "/react-FBDash-web-app/static/js/main.2bc69a73.chunk.js",
-    "main.js.map": "/react-FBDash-web-app/static/js/main.2bc69a73.chunk.js.map",
+    "main.js": "/react-FBDash-web-app/static/js/main.b8fe123a.chunk.js",
+    "main.js.map": "/react-FBDash-web-app/static/js/main.b8fe123a.chunk.js.map",
     "runtime-main.js": "/react-FBDash-web-app/static/js/runtime-main.bd4bcf69.js",
     "runtime-main.js.map": "/react-FBDash-web-app/static/js/runtime-main.bd4bcf69.js.map",
     "static/js/2.6413c040.chunk.js": "/react-FBDash-web-app/static/js/2.6413c040.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.bd4bcf69.js",
     "static/js/2.6413c040.chunk.js",
     "static/css/main.cd2cb3d4.chunk.css",
-    "static/js/main.2bc69a73.chunk.js"
+    "static/js/main.b8fe123a.chunk.js"
   ]
 }
